@@ -1,1 +1,7 @@
 # 安装运行所需要的 Python 库依赖（pip 安装）
+gradio==4.10.0
+transformers
+sentencepiece
+einops
+accelerate
+tiktoken
