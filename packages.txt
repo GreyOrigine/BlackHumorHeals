@@ -1,3 +1,0 @@
-# 安装运行所需要的 Debian 依赖项（ apt-get 安装）
-git
-git-lfs
