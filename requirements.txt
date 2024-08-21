@@ -5,5 +5,3 @@ sentencepiece
 einops
 accelerate
 tiktoken
-git
-git-lfs
